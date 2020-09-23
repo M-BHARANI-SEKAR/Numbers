@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.schoolerp.indexpage.GreetingControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.859 s - in com.schoolerp.indexpage.GreetingControllerTest
